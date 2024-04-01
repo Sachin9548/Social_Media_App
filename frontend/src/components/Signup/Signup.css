@@ -1,0 +1,21 @@
+/* sign in  */
+.body-signup {
+  width: 100vw;
+  height: 92vh;
+  border: 2px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIqL3WqxFnEyf5oW_kpyUnYAQD5HEcXJpN5w&usqp=CAU');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container-form-signin {
+  margin: 20px;
+  color: white;
+  font-weight: 700;
+  max-width: 550px;
+  border-radius: 50px 5px 5px 5px;
+  /* border: 2px solid; */
+  box-shadow: 0px 0px 0px 5px black;
+}

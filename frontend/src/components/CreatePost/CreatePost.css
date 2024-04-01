@@ -1,0 +1,31 @@
+.CreatePost {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+
+.CreatePostContainer {
+  width: 560px;
+  border: 2px solid;
+}
+.PostHeader {
+  border-bottom: 1px solid rgb(173, 170, 170);
+}
+ 
+.CreatePost .heding { 
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+}
+.CreatePost .heding img {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+#output{
+  padding: 15px;
+  width:100%;
+}

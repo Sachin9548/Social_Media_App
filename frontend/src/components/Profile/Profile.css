@@ -1,0 +1,49 @@
+/* profile page  */
+.Profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.Profile hr {
+  border: 2px solid black;
+}
+.Profile .prof img {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+}
+.Profile .prof {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card {
+  width: 100%;
+  /* border: 2px solid; */
+}
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.items img {
+  width: 10rem;
+  height: 10rem;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.items {
+  max-width: 620px;
+}
+.gallery {
+  display: flex;
+  justify-content: center;
+}
+.container4{
+  overflow-y: scroll;
+}
+.card-title{
+  text-transform: uppercase;
+}
