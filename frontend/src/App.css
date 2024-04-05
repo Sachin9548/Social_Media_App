@@ -9,6 +9,9 @@
 body{
   border:5px solid blue;
 }
+.App{
+   border:5px solid red;
+}
 .box-s {
   box-shadow: 0px 0px 5px rgb(62, 62, 62);
 }
